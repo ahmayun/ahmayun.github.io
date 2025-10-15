@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 🚀 I was offered to return for another Applied Science internship at AWS!
-
