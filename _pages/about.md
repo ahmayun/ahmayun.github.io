@@ -34,7 +34,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Ahmad Humayun, a PhD candidate in Computer Science at Virginia Tech, advised by [Prof. Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/) on automated software testing and security of distributed data-intensive scalable computing (DISC) programs. I also collaborate closely with [Prof. Miryung Kim](https://web.cs.ucla.edu/~miryung/) @ UCLA.
+I'm a 5th year PhD candidate in Computer Science at Virginia Tech, advised by [Prof. Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/) on automated software testing and security of distributed data-intensive scalable computing (DISC) programs. I also collaborate closely with [Prof. Miryung Kim](https://web.cs.ucla.edu/~miryung/) @ UCLA.
 
 My research focuses on developing novel methods to improve testing for big data analytics applications, targeting DISC frameworks like Apache Spark a Apache Flink. I've published my work at top-tier venues including [ESEC/FSE](https://portal.core.edu.au/conf-ranks/52/) and [IEEE/ACM ASE](https://portal.core.edu.au/conf-ranks/279/). My tools have discovered multiple previously unknown bugs in Apache Spark and Apache Flink.
 
