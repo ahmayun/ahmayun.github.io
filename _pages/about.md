@@ -17,7 +17,7 @@ profile:
       <a href="https://www.linkedin.com/in/ahmayun" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a><br>
       <a href="https://github.com/ahmayun" target="_blank"><i class="fab fa-github"></i> GitHub</a><br>
       <a href="https://scholar.google.com/citations?user=uO6VHNAAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>
-      <a href="/assets/pdf/CV_Ahmad.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
+      <a href="/assets/pdf/ahmad-resume.pdf" target="_blank"><i class="fas fa-file-pdf"></i> CV</a>
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -34,8 +34,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 5th year PhD candidate in Computer Science at Virginia Tech, advised by [Prof. Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/) on automated software testing and security of distributed data-intensive scalable computing (DISC) programs. I also collaborate closely with [Prof. Miryung Kim](https://web.cs.ucla.edu/~miryung/) @ UCLA.
+I'm a 5th year PhD candidate in Computer Science at Virginia Tech, advised by [Prof. Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/) on automated software testing and security of distributed data-intensive scalable computing (DISC) applications. I also collaborate closely with [Prof. Miryung Kim](https://web.cs.ucla.edu/~miryung/) @ UCLA.
 
-My research focuses on developing novel methods to improve testing for big data analytics applications, targeting DISC frameworks like Apache Spark a Apache Flink. I've published my work at top-tier venues including [ESEC/FSE](https://portal.core.edu.au/conf-ranks/52/) and [IEEE/ACM ASE](https://portal.core.edu.au/conf-ranks/279/). My tools have discovered multiple previously unknown bugs in Apache Spark and Apache Flink.
+My research focuses on developing novel methods to improve testing and debugging across two domains: (1) big data analytics applications, targeting DISC frameworks like Apache Spark and Apache Flink, and (2) large language models (LLMs), where I investigate code reasoning capabilities, fault localization, and provenance tracking in federated learning settings. I've published my work at top-tier venues including [ESEC/FSE](https://portal.core.edu.au/conf-ranks/52/) and [IEEE/ACM ASE](https://portal.core.edu.au/conf-ranks/279/). My tools have discovered multiple previously unknown [faults](https://github.com/ahmayun/dag-fuzzer-generalized?tab=readme-ov-file#reported-issues) in popular distributed frameworks such as [Apache Spark](https://github.com/apache/spark), [Apache Flink](https://github.com/apache/flink), [Polars](https://github.com/pola-rs/polars), and [Dask](https://github.com/dask/dask), and my recent work establishes new benchmarking methodologies for evaluating LLM robustness in software engineering tasks.
 
 I recently completed an internship as an Applied Scientist at `Amazon Web Services` (Summer 2025), where I developed an LLM-powered application to automate the modeling of complex distributed algorithms in low-resource programming languages, deployed both as a standalone application and an MCP server. Previously, as an Applied Scientist intern at AWS (Summer 2024), I enhanced the automated testing infrastructure of critical AWS Services.
