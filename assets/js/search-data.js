@@ -76,7 +76,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-generating-and-understanding-tests-via-path-aware-symbolic-execution-with-llms-has-been-accepted-to-icpc-2026",
           title: '🎉 Our paper “Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs”...',
           description: "",
-          section: "News",},{id: "news-our-paper-protoken-token-level-attribution-for-federated-large-language-models-has-been-accepted-to-icpc-2026",
+          section: "News",},{id: "news-our-paper-protoken-token-level-attribution-for-federated-large-language-models-has-been-accepted-to-mlsys-2026",
           title: '🎉 Our paper “ProToken: Token-Level Attribution for Federated Large Language Models” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
