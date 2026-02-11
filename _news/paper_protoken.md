@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper **“ProToken: Token-Level Attribution for Federated Large Language Models”** has been accepted to **ICPC 2026**!
+🎉 Our paper **“ProToken: Token-Level Attribution for Federated Large Language Models”** has been accepted to **MLSys 2026**!
